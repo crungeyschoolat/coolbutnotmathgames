@@ -4,3 +4,5 @@ this is a simple html document that displays another webpage over a coolmath gam
 
 
 download this, then open the html document. you can customise the background and website to display
+
+this also says cool math games on your search history.
